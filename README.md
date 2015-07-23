@@ -10,3 +10,4 @@
 https://github.com/mirrordust/OSCourseDesign
 
 ### 项目说明
+项目对文件系统部分的源码进行了增改，具体修改为增加了lseek, stat, dup, pwread和pwrite几个文件调用，以及将源码的扁平结构改为多级目录结构。
