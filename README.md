@@ -6,6 +6,7 @@
 | 1352906  | 李星辰 |42028701|
 
 
-Git托管地址：https://github.com/mirrordust/OSCourseDesign
+### Git托管地址
+https://github.com/mirrordust/OSCourseDesign
 
-项目说明
+### 项目说明
